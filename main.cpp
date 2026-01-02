@@ -36,8 +36,8 @@ unsigned short segCol[6]={darkG,darkG,darkG,darkG,red,red}; // 6 cifre acum! SI 
 //time zone and wifi
 int zone=2;
 const char* ntpServer = "pool.ntp.org";          
-String ssid = "nextgen_v";
-String password = "10mai2008";
+String ssid = "xxxxx";
+String password = "xxxxx";
 
 // 6 digits in clock (HH:MM:SS)
 String digits[6]={"0","0","0","0","0","0"};
